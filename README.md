@@ -171,9 +171,10 @@ configs/              the validation-selected ACE-GNN configuration (Table 5)
 data/README.md        what the (non-distributed) data directory contains after steps 1–2
 ```
 
-## Citation
+## Authors and citation
 
-See `CITATION.cff`.
+Hojun Kang (Department of Business Administration, Dongduk Women's University) and Sang-Gun Lee (Business
+School, Sogang University). Citation metadata is in `CITATION.cff`.
 
 ## Licence
 
