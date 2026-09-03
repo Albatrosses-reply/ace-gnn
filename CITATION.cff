@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "ACE-GNN: code for 'Guilt by Association: Interpretable Multiplex Graph Learning of Accounting-Risk Contagion'"
+authors:
+  - family-names: Kang
+    given-names: Hojun
+    affiliation: "Department of Business Administration, Dongduk Women's University"
+  - family-names: Lee
+    given-names: Sang-Gun
+    affiliation: "Business School, Sogang University"
+license: MIT
+repository-code: "https://github.com/Albatrosses-reply/ace-gnn"
+preferred-citation:
+  type: article
+  title: "Guilt by Association: Interpretable Multiplex Graph Learning of Accounting-Risk Contagion"
+  authors:
+    - family-names: Kang
+      given-names: Hojun
+    - family-names: Lee
+      given-names: Sang-Gun
+  journal: "Information Sciences"
+  year: 2026

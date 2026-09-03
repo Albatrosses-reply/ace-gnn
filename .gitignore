@@ -1,0 +1,18 @@
+# Data derived from WRDS-licensed tables is never committed (see data/README.md)
+data/**
+!data/README.md
+!data/ext/.gitkeep
+!data/ext/pure/.gitkeep
+!data/ext/pure/v2/.gitkeep
+figs/**
+!figs/.gitkeep
+paper/**/*.tex
+paper/**/*.pdf
+!paper/README.md
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+catboost_info/
+.DS_Store
+.env
+.pgpass

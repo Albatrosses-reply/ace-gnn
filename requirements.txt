@@ -1,0 +1,16 @@
+# Tested with Python 3.11 / 3.13 on macOS (CPU only). PyTorch Geometric must match the installed torch build:
+# see https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+scikit-learn>=1.4
+torch>=2.3
+torch_geometric>=2.5
+xgboost>=2.0
+lightgbm>=4.0
+catboost>=1.2
+matplotlib>=3.8
+# WRDS access (extraction scripts only; requires a WRDS subscription)
+wrds>=3.2
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
