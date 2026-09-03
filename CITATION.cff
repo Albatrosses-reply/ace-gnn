@@ -10,6 +10,8 @@ authors:
     affiliation: "Business School, Sogang University"
 license: MIT
 repository-code: "https://github.com/Albatrosses-reply/ace-gnn"
+doi: 10.5281/zenodo.22285672
+version: 1.0.0
 preferred-citation:
   type: article
   title: "Guilt by Association: Interpretable Multiplex Graph Learning of Accounting-Risk Contagion"

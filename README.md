@@ -1,5 +1,7 @@
 # ACE-GNN — Guilt by Association: Interpretable Multiplex Graph Learning of Accounting-Risk Contagion
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22285672.svg)](https://doi.org/10.5281/zenodo.22285672)
+
 Code for the paper *Guilt by Association: Interpretable Multiplex Graph Learning of Accounting-Risk Contagion*
 (Hojun Kang and Sang-Gun Lee, *Information Sciences*, 2026). ACE-GNN predicts next-year severe accounting
 failures (ICFR material weaknesses, fraudulent restatements, SEC enforcement actions) as node classification
@@ -174,7 +176,8 @@ data/README.md        what the (non-distributed) data directory contains after s
 ## Authors and citation
 
 Hojun Kang (Department of Business Administration, Dongduk Women's University) and Sang-Gun Lee (Business
-School, Sogang University). Citation metadata is in `CITATION.cff`.
+School, Sogang University). Citation metadata is in `CITATION.cff`; the archived release is
+[doi:10.5281/zenodo.22285672](https://doi.org/10.5281/zenodo.22285672).
 
 ## Licence
 
